@@ -1,6 +1,7 @@
 <h1 align="center">🍽️ React Native Recipe App 🍽️</h1>
 
-![Demo App](/mobile/assets/images/screenshot-for-readme.png)
+### 🏠 App Page
+<img src="/mobile/assets/images/screenshot-for-readme.png" alt="Cart Page" width="800"/>
 
 Highlights:
 
@@ -52,8 +53,7 @@ npx expo start
 
 **Abhishek Kumar**  
 Full Stack Web Developer | AlmaBetter Graduate  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/abhirkt1996)
- 
-🔗 
+🔗 [LinkedIn](https://www.linkedin.com/in/abhirkt1996)
+
 
 ```
